@@ -22,3 +22,5 @@ build/
 *.sublime-project
 *.sublime-workspace
 .gitignore
+almoxarifado-backend/package.json
+almoxarifado-backend/package-lock.json
