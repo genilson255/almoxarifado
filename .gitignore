@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Diretórios de build
+dist/
+build/
+
+# Dependências locais
+.DS_Store
+
+# Arquivos de ambiente
+.env
+
+# IDEs e editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.gitignore
